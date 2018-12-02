@@ -8,4 +8,8 @@ This assignment crated a ton of circles that appeared randomly and another set o
 
 This changes the size of the circle randomly and changes the shade of red while its expanding.
 
-### Assignment 3 - 
+### Assignment 3 - Type
+
+This assignment changes the color of the text when the mouse is clicked.
+
+### Assignment 4 - 
