@@ -12,4 +12,10 @@ This changes the size of the circle randomly and changes the shade of red while 
 
 This assignment changes the color of the text when the mouse is clicked.
 
-### Assignment 4 - 
+### Assignment 4 - 3D
+
+This had 3 shapes a sphere and 2 cubes, one was textures and the camera moved from side to side depending on where the mouse is.
+
+### Assignment 5 - Image/Sound/Video
+
+The assignment turned on the webcam and played music when pressing a button.
