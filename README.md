@@ -22,6 +22,8 @@ This assignment changes the color of the text when the mouse is clicked.
 
 This had 3 shapes a sphere and 2 cubes, one was textures and the camera moved from side to side depending on where the mouse is.
 
+(https://github.com/acthoni/MAGD-150-Assignments/blob/gh-pages/Assignment%204.pde)
+
 ### Assignment 5 - Image/Sound/Video
 
 The assignment turned on the webcam and played music when pressing a button.
